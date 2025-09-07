@@ -18,5 +18,27 @@ staged --> file is ready to commit
 unmodified --> unchanged
 
 <br>
-<br> add --> commit
+<br> add (stagged) --> commit (click pic/unchanged)
 <br>
+
+<br> Add and Commit
+<br> add --> add new or changed files in ur working directory to the git staging area
+git add <<filename>>
+<br> commit --> It is the record of the change
+git commit -m "some messagege"
+<br>
+<br> Push  --> upload local repo content to remote repo
+git push origin main
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
