@@ -1,7 +1,7 @@
 # gitHub-Demo
 This is my hands On Github.
 <br>
-Author : Yusuf Humayun
+Author : Yusuf Humayun .git 
 
 Configuring Git:
 <br> git config --global user.name "name"
@@ -9,7 +9,14 @@ Configuring Git:
 <br> git config --list
 <br> clone --> Cloning a respository to our local  machine
 git clone < some link >>
-<br> status -- display the status of the code
-git status
+
 <br>
+<br> status -- display the status of the code  git status
+untracked --> new files that git doesn't yet track.
+modified --> changed
+staged --> file is ready to commit
+unmodified --> unchanged
+
+<br>
+<br> add --> commit
 <br>
